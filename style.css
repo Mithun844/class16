@@ -1,0 +1,101 @@
+* { margin: 0px; 
+    padding: 0px;
+}
+.bg-tem{
+    background-color: #101446;
+}
+.bg-teem{
+    background-color: #BAC1F3;
+}
+.bg-abo{
+    background-color: #C2D4EA;
+}
+.bg-foot{
+    background-color: #0062D3;
+}
+.t-left{
+    text-align: left;
+}
+.pt-2 { 
+    margin-left: 106px; 
+    padding-top: 0.5rem !important; 
+}
+.col-md-4.logo img
+{
+    width: 100px;
+    margin-left: 57px;
+}
+.manu ul 
+{
+    list-style: none;
+    margin-bottom: 0px;
+    margin-left: 75px;
+}
+.manu ul li 
+{
+    display: inline-block;
+    padding: 0px 19px;
+    line-height: 57px;
+}
+.manu ul li a { 
+    text-decoration: none; 
+    color: rgb(255, 255, 255); font-weight: 700; 
+}
+.manu ul li:hover { 
+    color: pink;
+}
+
+/* banar */
+.banar{
+    background: url("https://i.ibb.co/CPHKZTb/intro-bg.jpg") no-repeat;
+    padding: 200px 0px;
+    background-size: cover;
+}
+.down {
+    margin-top: 154px;
+}
+/* .col-md-4 p {
+    font-size: 10px;
+    width: 146px;
+    margin: auto;
+} */
+
+.btn-1 {
+    width: 120px;
+    margin: auto;
+    padding: 13px -9px;
+}
+.mybtn {
+    padding: 13px 5px;
+    text-align: left;
+    line-height: 1.5px;
+}
+
+/* ----About Section CSS---- */
+.para
+{
+    font-size: 14px;
+    padding: 20px 0;
+}
+#nameli
+{
+    list-style: none;
+    font-size: 16px;
+    line-height: 39px;
+}
+#about p
+{
+    font-size: 16px;
+    padding-top: 11px;
+}
+#about-2
+{
+    font-size: 21px;
+    padding-top: 11px;
+}
+
+#map
+{
+    height: 400px;
+    width: 500px;
+}
